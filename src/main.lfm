@@ -1,0 +1,9 @@
+object frmMain: TfrmMain
+  Left = 1616
+  Height = 240
+  Top = 167
+  Width = 320
+  Caption = 'PicoBass'
+  OnCreate = FormCreate
+  LCLVersion = '2.3.0.0'
+end
